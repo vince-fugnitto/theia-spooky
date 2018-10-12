@@ -1,0 +1,15 @@
+#theia-statusBar .area .element {
+    font-weight: 600;
+}
+
+.theia-icon::before {
+    content: "Spooky";
+}
+
+.theia-icon {
+    color: #FF8C0A;
+    vertical-align: middle;
+    font-weight: 600;
+    width: 50px;
+}
+
