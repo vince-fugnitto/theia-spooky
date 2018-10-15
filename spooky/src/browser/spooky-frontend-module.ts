@@ -20,7 +20,7 @@ import { Spooky } from './spooky';
 
 import '../../src/browser/style/index.css';
 
-export default new ContainerModule(bind => {
+export default new ContainerModule(() => {
     const themeService = ThemeService.get();
     themeService.register(...Spooky.themes);
 });

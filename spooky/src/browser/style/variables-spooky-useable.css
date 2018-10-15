@@ -119,7 +119,7 @@ is not optimized for dense, information rich UIs.
     /* State colors (warn, error, success, info)
       ------------------------------------------ */
   
-    --theia-warn-color0: var(--md-amber-600);
+    --theia-warn-color0: #884fff;
     --theia-warn-color1: var(--md-amber-500);
     --theia-warn-color2: var(--md-amber-400);
     --theia-warn-color3: var(--md-amber-300);

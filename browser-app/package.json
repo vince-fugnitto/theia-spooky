@@ -16,6 +16,9 @@
     "@theia/monaco": "latest",
     "@theia/typescript": "latest",
     "@theia/messages": "latest",
+    "@theia/cpp": "latest",
+    "@theia/debug": "latest",
+    "@theia/json": "latest",
     "spooky": "0.0.0"
   },
   "devDependencies": {
