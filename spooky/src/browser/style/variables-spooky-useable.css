@@ -35,7 +35,7 @@ is not optimized for dense, information rich UIs.
        user interface elements that are not directly user-generated content.
     */
   
-    --theia-ui-font-scale-factor: 1.2;
+    --theia-ui-font-scale-factor: 1.0;
     --theia-ui-font-size0: calc(var(--theia-ui-font-size1) / var(--theia-ui-font-scale-factor));
     --theia-ui-font-size1: 13px; /* Base font size */
     --theia-ui-font-size2: calc(var(--theia-ui-font-size1) * var(--theia-ui-font-scale-factor));
@@ -89,7 +89,7 @@ is not optimized for dense, information rich UIs.
     
     /* Brand colors */
   
-    --theia-brand-color0: #0082F0;
+    --theia-brand-color0: #d86d25;
     --theia-brand-color1: #181818;
     --theia-brand-color2: #181818;
     --theia-brand-color3: #181818;

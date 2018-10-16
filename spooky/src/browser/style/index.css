@@ -8,8 +8,49 @@
 
 .theia-icon {
     color: #FF8C0A;
-    vertical-align: middle;
     font-weight: 600;
+    padding-top: 2px;
+    vertical-align: middle;
     width: 50px;
 }
 
+.theia-Tree {
+    font-weight: 600;
+}
+
+.theia-TreeContainer {
+    background-color: var(--theia-layout-color1);
+    border: none;
+}
+
+.p-TabBar.theia-app-sides {
+    background-color: black;
+}
+
+
+#theia-top-panel,
+.p-MenuBar {
+    background-color: black;
+    font-weight: 600;
+}
+
+.p-MenuBar-item {
+    background-color: transparent;
+}
+
+.p-TabBar.theia-app-centers {
+    background-color: var(--theia-layout-color0);
+    border-bottom: 2px solid #FF8C0A;
+}
+
+.p-TabBar-tabLabel {
+    font-weight: 600;
+}
+
+.p-TabBar[data-orientation='horizontal'] .p-mod-current {
+    border-top: 5px solid #FF8C0A;
+}
+
+ .p-TabBar-tab {
+    border-top: 5px solid var(--theia-layout-color1);
+}
