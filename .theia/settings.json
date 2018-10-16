@@ -1,0 +1,7 @@
+{
+   "editor.renderWhitespace": "all",
+   "editor.glyphMargin": false,
+   "editor.minimap.enabled": true,
+   "editor.mouseWheelScrollSensitivity": 10,
+   "editor.renderIndentGuides": true,   
+}
