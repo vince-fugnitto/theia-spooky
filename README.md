@@ -1,4 +1,4 @@
-# Spooky
+# Spooky Vinny
 The example of how to build the Theia-based applications with the spooky.
 
 ![Spooky](./documentation/spooky.png "Spooky")
